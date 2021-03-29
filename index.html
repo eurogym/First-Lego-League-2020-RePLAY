@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.0.0/aframe.min.js"></script>
+    <script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
+    <title>AR</title>
+  </head>
+  <body>
+    <a-scene arjs="debugUIEnabled: false">
+       <a-asset>
+          <video 
+             id="roboter" 
+             autoplay="true"
+             loop="true"
+             src="Pfad zum Asset(zuvor in die Zwischenablage kopieren)">
+          </video>  
+       </a-asset> 
+     
+      <a-marker preset="kanji">
+         <a-video src="#roboter"  
+            height="1" width="2.3" position="0 0 0" rotation="-90 0 0">
+         </a-video>
+      </a-marker>
+
+     <a-entity camera></a-entity>
+    </a-scene>
+     <script>
+      window.addEventListener('click', function () {
+      var video = document.querySelector('#roboter');
+      if(video.paused == true){
+        video.play();
+      }
+      else{
+          video.pause();
+      }
+      
+      });
+    </script>
+  </body>
+</html>
