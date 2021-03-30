@@ -12,3 +12,11 @@ Unsere 2 Roboter sind baugleich, dies ermöglicht ein effizienteres Arbeiten zur
 Alle Aufsätze funktionieren mit Stecksystemen, wir verwenden keine Pins von LEGO, da dies zu viel Zeit in Anspruch nehmen wird (FLL).
 ![Roboter 1](Roboter1.jpeg)
 ## Team:
+Eder Elias
+Huber Clemens
+Kürmayr Fritz
+Lagler Matteo
+Ovat Semih
+Plaim Marvin
+Stadlbauer Florian
+Steininger Timo
