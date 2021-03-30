@@ -4,7 +4,7 @@ Eurogym SAP
 ## Forschungsprojekt:
 Da der Sportunterricht am Gymnasium Coronabedingt nur aus Spaziergängen besteht, haben wir uns eine alternative Lösung überlegt. Mit opischen Tags zum Einscannen (Smartphone) werden Sportübungen in Argumented Reality angezeigt. Diese Tags werden zum Beispiel an Bäumen oder Parkbänken angebracht. Die Sportübungen sind Videos in AR, welche dann direkt am Gegenstand angezeigt werden. Unser Ziel ist es, eine Abwechslung zu den Spaziergängen zu generieren und die Schüler fit zu halten.
 #### Powerpoint:
-[PP Forschungsauftrag](Forschungsauftrag.pptx)
+[PP Forschungsauftrag](https://github.com/eurogym/First-Lego-League-2020-RePLAY/blob/c4a7277a0e36ae6c2c8a43f4fb9c1ccedbfcbf6f/Forschungsauftrag.pptx)
 #### Tags:
 ![Tags](ar-beispiel.png)
 ## Robotgame:
