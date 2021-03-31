@@ -11,7 +11,7 @@ Da der Sportunterricht am Gymnasium Coronabedingt nur aus Spaziergängen besteht
 #### Highscore:
 123 Punkte
 ## Roboterdesign:
-Unsere 2 Roboter sind baugleich, dies ermöglicht ein effizienteres Arbeiten zurgleichen Zeit. Da beim Wettkampf sowieso nur ein Roboter fahren darf, werden die Programme imer auf beide Roboter geladen. Wenn ein Roboter mal nicht funktionier, haben wir immer noch den zweiten. 
+Unsere 2 Roboter sind baugleich, dies ermöglicht ein effizienteres Arbeiten zur gleichen Zeit. Da beim Wettkampf sowieso nur ein Roboter fahren darf, werden die Programme immer auf beide Roboter geladen. Wenn ein Roboter mal nicht funktionier, haben wir immer noch den zweiten. 
 Alle Aufsätze funktionieren mit Stecksystemen. Wir verwenden keine Pins von LEGO, da diese bei der FLL zu viel Zeit in Anspruch nehmen werden (Aufsätze tauschen).
 ![Roboter 1](Roboter1.jpeg)
 ## Team:
