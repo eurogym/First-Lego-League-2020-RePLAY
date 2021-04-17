@@ -9,13 +9,13 @@
         <!-- <script type='text/javascript' src='peakfinder.js'></script> -->
     </head>
     <body>
-    <a-scene
+    <a-scene gps-camera-debug
         vr-mode-ui="enabled: false"
         arjs='sourceType: webcam; videoTexture: true; debugUIEnabled: false;'
         renderer='antialias: true; alpha: true'>
             <!-- <a-entity peakfinder></a-entity> -->
-            <a-camera gps-camera-debug rotation-reader embedded arjs='sourceType: webcam; debugUIEnabled: true;'></a-camera>
             <a-box gps-entity-place='latitude: 48.1230; longitude: 14.4429' material='color: red' position='0 30 0' scale='100 100 100'></a-box>
+            <a-camera rotation-reader></a-camera>
         </a-scene>
     </body>
 </html>
